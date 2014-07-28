@@ -1,3 +1,10 @@
+myMovies
+============
+
+Movie API &amp; EmberJS 2 Hour Challenge
+
+Live Demo: http://rselogic.com/emb/
+
 starter-kit
 ===========
 
